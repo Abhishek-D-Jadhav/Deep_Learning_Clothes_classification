@@ -1,1 +1,3 @@
-# Clothes_image_classification
+In the world of e-commerce, accurate product classification is vital for effective product management and improving customer experience. In this project, The aim is to apply deep learning techniques to classify different types of clothing items.
+Here i have leveraged a dataset of clothing images from kaggle one of the community where the up to date datasets are available. This dataset comprises various clothing items, each labeled with their respective clothing category. Our objective is to train a deep learning model that can accurately classify these items into their correct categories based on their images.
+Through this project, I have tried to  showcase the power of deep learning in automating and enhancing product classification in e-commerce, which has the potential to significantly improve product management and customer experience.
